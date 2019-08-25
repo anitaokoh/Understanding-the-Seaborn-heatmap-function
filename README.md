@@ -10,6 +10,6 @@ The arguments were broken down into 4 parts which are
 
 In the google colab notebook above, although there are  **18** arguments in total in the functions, **13** arguments were explored.
 
-Click [here](https://heartbeat.fritz.ai/seaborn-heatmaps-13-ways-to-customize-correlation-matrix-visualizations-f1c49c816f07 to view the article accompanied with the code)
+Click [here](https://heartbeat.fritz.ai/seaborn-heatmaps-13-ways-to-customize-correlation-matrix-visualizations-f1c49c816f07) to view the article accompanied with the code
 
 For more info, see the documentation [here](https://seaborn.pydata.org/generated/seaborn.heatmap.html)
